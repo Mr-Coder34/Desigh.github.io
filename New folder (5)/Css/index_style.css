@@ -1,0 +1,172 @@
+*{
+	background-color: #ffffff;
+	padding: 0px;
+	margin: 0px;
+	font-family: font-family: 'Nunito', sans-serif;
+	font-family: 'Poppins', sans-serif;
+color: black;
+}
+#buttons{
+	float: right;
+	width: 200px;
+	height: 38px;
+	padding: 10px;
+}
+#nav_bar{
+	height: 650px;
+}
+#nav{
+	border: solid 2px #00ed73 ;
+	background-attachment: fixed;
+	background-clip: fixed;
+	box-shadow: 1px 1px 5px  black;
+}
+#logo{
+	display: inline-block;
+	font-weight: bolder;
+	font-size: xx-large;
+	padding: 2px;
+	margin: 3px;
+}
+#btn_1{
+	
+	border-color: transparent;
+	padding: 5px;
+
+}
+
+#btn_1:hover{
+	border-top-color: transparent;
+	border-left-color: transparent;
+	border-bottom-color: transparent;
+	border-right-color: black;
+	transition: 0.3s;
+	cursor: pointer;
+}
+
+#btn-2{
+border-color: transparent;
+	padding: 5px;
+
+}
+
+#btn-2:hover{
+		border-top-color: transparent;
+	border-left-color: transparent;
+	border-bottom-color: transparent;
+	border-right-color: black;
+	transition: 0.3s;
+	cursor: pointer;
+}
+
+#image{
+	height: 200px;
+	float:right;
+	position: relative;
+	left: -3em;
+	top: 30px;
+
+}
+
+#head-1{
+	display:inline-block;
+	margin-top: 10px;
+	margin-left: 10px;
+
+}
+
+#paragraph-1{
+	float: left;
+	margin-left: 10px;
+	width: 70%;
+	position: absolute;
+	top: 130px;
+	padding: 3px;
+}
+
+#head-2{
+
+	display: inline-block;
+	position: absolute;
+	top: 340px;
+	margin-left: -110px;
+	font-size: 1.5em;
+}
+
+#target_image{
+	height: 230px;
+	width: 230px;
+	position: absolute;
+	top: 410px;
+	margin-left: -90px;
+}
+
+#targets{
+	display: inline-block;
+	position: absolute;
+	top: 430px;
+	right: 30px;
+	width: 65%;
+}
+
+
+#footer{
+	height: 250px;
+}
+
+#footer_paragraph{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+
+	
+
+}
+
+
+#facebook{
+	height: 50px;
+	position: relative;
+	left: 25em;
+	bottom: -50px;
+
+
+}
+#discord{
+	height:50px;
+	position: relative;
+	left: 28em;
+	bottom: -50px;
+
+}
+
+#spotify{
+	height: 50px;
+	position: relative;
+	left: 31em;
+	bottom: -50px;
+	
+}
+
+#copyright_section{
+	display: flex;
+	justify-content: center;
+	position: relative;
+	bottom: -80px;
+}
+
+#go_up{
+	position: relative;
+	bottom: -116px;
+	width: 100em;
+}
+
+#webpage-2{
+	border: solid 3px yellow;
+	height: 1000px;
+
+}
+
+#nav-2{
+	border: solid 3px brown;
+}
